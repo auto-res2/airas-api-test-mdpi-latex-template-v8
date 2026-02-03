@@ -1,0 +1,2 @@
+# Suppress warning 3: You should enclose the previous parenthesis with `{}'
+CmdLine { -n3 }
